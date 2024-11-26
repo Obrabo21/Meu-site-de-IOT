@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  header {
+    margin-bottom: 20px;
+  }
+  
+  main h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .content {
+    margin-top: 20px;
+  }
+  
+  .content h2 {
+    color: #007bff;
+  }
+  
+  .content ul {
+    padding-left: 20px;
+  }
+  
+  .content ul li {
+    list-style-type: disc;
+    margin-bottom: 5px;
+  }
+  
